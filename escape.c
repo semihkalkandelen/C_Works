@@ -8,4 +8,7 @@ int main(){
     printf("name: \"john\"\n");
     printf("tabbed\\tOutput\n");
     printf("backslash: //\n\n");
+    getchar();
+    getchar();
+    return 0;
 }
